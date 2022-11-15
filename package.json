@@ -1,7 +1,8 @@
 {
-  "name": "one-portfolio",
+  "name": "myportfoliowebsite",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://AaditMalla.github.io/aditmallawebsite",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
