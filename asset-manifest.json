@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aditmallawebsite/static/css/main.d66343a7.css",
-    "main.js": "/aditmallawebsite/static/js/main.be3b178c.js",
+    "main.css": "/aditmallawebsite/static/css/main.91e37a89.css",
+    "main.js": "/aditmallawebsite/static/js/main.be84cd54.js",
     "static/media/heroImage.png": "/aditmallawebsite/static/media/heroImage.4eb4cd5e5681196802c8.png",
     "static/media/react.png": "/aditmallawebsite/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/aditmallawebsite/static/media/node.952a9ea986dcfa5229ad.png",
@@ -12,11 +12,11 @@
     "static/media/postman.png": "/aditmallawebsite/static/media/postman.3ac4d7844e6d9a8023da.png",
     "static/media/javascript.png": "/aditmallawebsite/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/aditmallawebsite/index.html",
-    "main.d66343a7.css.map": "/aditmallawebsite/static/css/main.d66343a7.css.map",
-    "main.be3b178c.js.map": "/aditmallawebsite/static/js/main.be3b178c.js.map"
+    "main.91e37a89.css.map": "/aditmallawebsite/static/css/main.91e37a89.css.map",
+    "main.be84cd54.js.map": "/aditmallawebsite/static/js/main.be84cd54.js.map"
   },
   "entrypoints": [
-    "static/css/main.d66343a7.css",
-    "static/js/main.be3b178c.js"
+    "static/css/main.91e37a89.css",
+    "static/js/main.be84cd54.js"
   ]
 }
